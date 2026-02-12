@@ -1,0 +1,8 @@
+{
+  "name": "Kral Cloud Stream",
+  "description": "Kralın özel eklenti deposu",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions/master/repo.json"
+  ]
+}
