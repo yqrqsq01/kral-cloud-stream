@@ -8,6 +8,8 @@
     "https://codeberg.org/cloudstream/cloudstream-extensions-hexated/raw/branch/builds/repo.json",
     "https://raw.githubusercontent.com/recloudstream/cloudstream-extensions-turkish/master/repo.json",
     "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json",
-    "https://raw.githubusercontent.com/DarkViper04/NSFW-Cloudstream/refs/heads/builds/repo.json"
+    "https://raw.githubusercontent.com/DarkViper04/NSFW-Cloudstream/refs/heads/builds/repo.json",
+    "https://raw.githubusercontent.com/CloudStreamExtensions/CloudStreamRepos/main/repos.json",
+    "https://raw.githubusercontent.com/hexated/cloudstream-extensions/builds/repo.json"
   ]
 }
